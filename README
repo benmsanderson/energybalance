@@ -1,1 +1,5 @@
 Working code for ESD submission on CMIP energetic balance
+
+Read CMIP5/CMIP6/LRMIP - sources data for abrupt4xco2 from google cloud and saves compact data to Google Drive
+Unifyensembles - merges datasets from CMIP5, CMIP6 and LongrunMIP
+4xCO2Bayesian - perform bayesian analysis and make figures for paper
